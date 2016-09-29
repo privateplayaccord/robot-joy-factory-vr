@@ -8,6 +8,8 @@ You'll need:
  * Google Cardboard (or similar)
  * We-Vibe or compatible device
 
+Go here to play: <https://privateplayaccord.github.io/robot-joy-factory-vr/> (or host your own local/private instance).
+
 How to play:
 
  1. Follow the robot as it jumps from box to box.
